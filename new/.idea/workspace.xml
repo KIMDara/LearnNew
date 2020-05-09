@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e69b78b-5f17-45d9-9e0d-b1e924e78d98" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../hello.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../papa.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="2e69b78b-5f17-45d9-9e0d-b1e924e78d98" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,11 +26,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.path.for.package.stylelint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.stylelint" value="$PROJECT_DIR$/node_modules/stylelint" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="SvnConfiguration">
@@ -47,7 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1589018738335</updated>
       <workItem from="1589018739621" duration="222000" />
-      <workItem from="1589018971049" duration="170000" />
+      <workItem from="1589018971049" duration="904000" />
     </task>
     <servers />
   </component>
@@ -55,9 +56,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="440" y="190" key="#ESLint" timestamp="1589019421945">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="190" key="#ESLint/0.0.1680.1050@0.0.1680.1050" timestamp="1589019421945" />
     <state x="341" y="164" key="SettingsEditor" timestamp="1589019027459">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1589019027459" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1589019396252">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1589019396252" />
   </component>
 </project>
