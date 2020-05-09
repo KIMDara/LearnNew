@@ -18,6 +18,6 @@ newrelic_agent.log
 
 # docs
 /docs
-
+.DS_Store
 # @nuxtjs/pwa
 sw.*
